@@ -1,8 +1,8 @@
 # nlzss - (de)compression with Nintendo's [LZSS][] format
 
-![Pub Version](https://img.shields.io/pub/v/nlzss?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/phoenixr-codes/nlzss?style=for-the-badge)
-![Pub Likes](https://img.shields.io/pub/likes/nlzss?style=for-the-badge)
+[![Pub Version](https://img.shields.io/pub/v/nlzss?style=for-the-badge)](https://pub.dev/packages/nlzss)
+[![GitHub Repo stars](https://img.shields.io/github/stars/phoenixr-codes/nlzss?style=for-the-badge)](https://github.com/phoenixr-codes/nlzss)
+[![Pub Likes](https://img.shields.io/pub/likes/nlzss?style=for-the-badge)](https://pub.dev/packages/nlzss)
 
 
 ## CLI Usage
