@@ -31,6 +31,6 @@ Instead of `decompress` you can also use the `d` shorthand.
 - [nintendo-lz][] - The codebase was heavily inspired by this
 - [nzlss][nzlss-python]
 
-[LZSS]: http://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Storer%E2%80%93Szymanski
+[LZSS]: https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Storer%E2%80%93Szymanski
 [nintendo-lz]: https://gitlab.com/DarkKirb/nintendo-lz
 [nzlss-python]: https://github.com/magical/nlzss
